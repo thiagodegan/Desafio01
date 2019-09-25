@@ -1,0 +1,6 @@
+Definimos o objetivo
+Obtemos a fonte de dados do CAGEDEST
+Transformamos e exploramos os dados
+Interpretamos os dados
+Sintetizamos as descobertas
+Realizamos a inferência dos dados
